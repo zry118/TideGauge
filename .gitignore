@@ -1,0 +1,24 @@
+# 系统垃圾
+.DS_Store
+
+# 构建产物
+*.o
+*.d
+*.dbg
+*.v[0-9]*
+TideGauge
+ClipBox
+Refract
+Refract2
+Refract3
+Refract4
+Stardust
+Ziwei
+makeicon
+makeicon.v2
+
+# 打包物（下载请到 Releases 页面）
+*.zip
+*.app
+*.iconset/
+*.icns
